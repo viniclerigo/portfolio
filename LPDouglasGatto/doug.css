@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@media (max-width: 600px) {
+    .hero-section {
+        padding: 0 10px;
+    }
+
+    .main-content {
+        padding: 50px 10px;
+    }
+
+    footer {
+        padding: 30px 10px;
+    }
+}
+
+/* Reset default margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Hero Section */
+.hero-section {
+    height: 100vh;
+    background-color: #000000;
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+        url('./img/dg01.jpg');
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+
+.profile-photo {
+    width: 350px;
+    height: 350px;
+    background-image: url('./img/dg01.jpg');
+    background-size: cover;
+    background-position: 80% 50%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 3px solid rgb(35, 150, 221);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    margin: 20px auto;
+}
+
+.outline-nome {
+    text-shadow:
+        -1px -1px 0 rgb(35, 150, 221),
+        1px -1px 0 rgb(35, 150, 221),
+        -1px 1px 0 rgb(35, 150, 221),
+        1px 1px 0 rgb(35, 150, 221);
+}
+
+header {
+    text-align: center;
+}
+
+.footer-title {
+    margin-top: 35px;
+    font-size: 25px;
+    width: 100vh;
+}
+
+.header-footer {
+    /* margin-top: 5px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+header img {
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+}
+
+header a {
+    margin: 10px;
+    text-decoration: none;
+}
+
+.header-p {
+    color: white;
+    font-size: 20px;
+}
+
+/* Main Content */
+.main-content {
+    height: 100vh;
+    background-color: #000000;
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+        url('./img/douglas\ gatto\ podio.jpg');
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+h1 {
+    margin: 25px 0;
+    font-size: 40px;
+    color: white;
+}
+
+h2 {
+    font-size: 22px;
+    line-height: 1.25;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 25px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.two-sided-box {
+    display: flex;
+    /* Use flexbox for layout */
+    justify-content: space-between;
+    /* Space out the boxes */
+    margin: 20px 0;
+    /* Add some margin for spacing */
+    flex-wrap: wrap;
+    /* Allow wrapping on smaller screens */
+}
+
+.box {
+    flex: 1;
+    /* Allow each box to take equal space */
+    margin: 0 10px;
+    /* Add some margin between the boxes */
+    padding: 20px;
+    /* Add padding inside the boxes */
+    background-color: rgba(0, 0, 0, 0.30);
+    /* Light background for contrast */
+    border-radius: 10px;
+    /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    min-width: 300px;
+    /* Ensure a minimum width for each box */
+}
+
+@media (max-width: 600px) {
+    .two-sided-box {
+        flex-direction: column;
+        /* Stack boxes vertically on small screens */
+    }
+
+    .box {
+        margin: 10px 0;
+        /* Adjust margin for stacked boxes */
+    }
+}
+
+footer {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+footer img {
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+}
+
+footer a {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+footer p {
+    color: white;
+    font-size: 15px;
+}
