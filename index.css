@@ -1,0 +1,80 @@
+body {
+    color: white;
+    background: linear-gradient(135deg, #1a1a1a, #333333, #4d4d4d);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.profile-photo {
+    width: 350px;
+    height: 350px;
+    background-image: url('./img/Eu profissional.jpeg');
+    background-size: cover;
+    /* zooms and crops image */
+    background-position: center 50%;
+    /* adjust vertical and horizontal focus */
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    /* circular shape */
+    border: 3px solid lightskyblue;
+    /* optional white border */
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    margin: 20px auto;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightskyblue;
+}
+
+header img {
+    border-radius: 50%;
+    height: 250px;
+    width: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: lightskyblue;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer img {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 20px;
+}
