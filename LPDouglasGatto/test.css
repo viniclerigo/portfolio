@@ -1,0 +1,57 @@
+/* Dentro de doug.css, substitua a regra .container da hero-section por: */
+
+.hero-section .container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    /* usa toda a altura da seção */
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 50px;
+}
+
+/* Topo: imagem + texto lado a lado */
+.hero-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    /* espaçamento entre foto e texto */
+}
+
+/* Faz a imagem ocupar um terço e o texto dois terços, por exemplo */
+.hero-top .image-container {
+    flex: 1;
+    max-width: 350px;
+}
+
+.hero-top .hero-text {
+    flex: 2;
+}
+
+/* Ajustes para mobile: empilha imagem/texto */
+@media (max-width: 600px) {
+    .hero-top {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+/* Rodapé: links centralizados */
+.hero-bottom {
+    text-align: center;
+    margin-top: auto;
+    /* empurra pro fim do container */
+}
+
+.hero-bottom .header-footer {
+    justify-content: center;
+    margin-top: 10px;
+}
+
+/* (Opcional) Se quiser dar um espacinho entre o título e os ícones: */
+.hero-bottom .footer-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
