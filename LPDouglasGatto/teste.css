@@ -1,0 +1,257 @@
+/* style.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Transição suave quando a página rolar para a próxima seção */
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#trabalhos {
+    background: linear-gradient(135deg, #333 0%, #444 100%);
+    /* Seção de "Trabalhos" */
+    transition: background 0.5s ease-in-out;
+}
+
+#carro {
+    background: linear-gradient(135deg, #444 0%, #555 100%);
+    /* Seção de "Carro" */
+    transition: background 0.5s ease-in-out;
+}
+
+/* Efeito suave na transição de cada seção */
+section:target {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #111 0%, #1a1f2a 50%, #333 100%);
+    color: #fff;
+}
+
+.header {
+    background-color: rgba(20, 20, 20, 0.5);
+    /* Cinza escuro com transparência */
+    padding: 1rem 2rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s;
+}
+
+.navbar a:hover {
+    color: #4fa8ff;
+    /* Azul médio ao passar o mouse */
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5rem;
+    padding: 5rem 5vw;
+    min-height: 100vh;
+    padding-left: 12vw;
+    background: linear-gradient(135deg, #111 0%, #1a1f2a 50%, #333 100%);
+}
+
+.hero-text {
+    flex: 0 0 350px;
+    margin-left: 2rem;
+    padding: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.08);
+    /* fundo branco com transparência */
+    border-radius: 0.75rem;
+    backdrop-filter: blur(4px);
+    /* vidro fosco */
+    -webkit-backdrop-filter: blur(4px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    /* sombra leve */
+}
+
+.hero-text h2 {
+    font-size: 2rem;
+    color: #4fa8ff;
+    margin-bottom: 1rem;
+}
+
+.hero-text p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.hero-gallery {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    /* Alinha mais à esquerda do container da galeria */
+    margin-left: 3rem;
+    /* Leva a galeria mais para a direita */
+}
+
+.gallery-frame {
+    position: relative;
+    width: 100%;
+    max-width: 950px;
+    aspect-ratio: 16 / 9;
+    background-color: #222;
+    /* border: 2px solid #4fa8ff; */
+    border-radius: 0.75rem;
+    overflow: hidden;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+}
+
+.gallery-frame img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: none;
+    transition: opacity 0.4s ease;
+    background-color: #111;
+}
+
+.gallery-frame img.active {
+    display: block;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 2;
+}
+
+.gallery-frame:hover .arrow {
+    opacity: 1;
+}
+
+.arrow.left {
+    left: 0;
+}
+
+.arrow.right {
+    right: 0;
+}
+
+/* Popup */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+}
+
+.popup.hidden {
+    display: none;
+}
+
+.popup-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.popup-content img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    background-color: #111;
+    border: 2px solid #4fa8ff;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.popup-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 2;
+}
+
+.popup:hover .popup-arrow {
+    opacity: 1;
+}
+
+.popup-arrow.left {
+    left: 0;
+}
+
+.popup-arrow.right {
+    right: 0;
+}

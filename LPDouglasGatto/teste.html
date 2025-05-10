@@ -1,0 +1,60 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Piloto de Drift</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="teste.css" />
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Douglas Gatto</h1>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#galeria">Galeria</a></li>
+                    <li><a href="#carro">Carro</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h2>Douglas Gatto</h2>
+            <p>
+                Destaque no Campeonato Brasileiro de Drift em 2023 e 2024, mostra muita precisão e habilidade utilizando
+                seu Chevette de Drift para competir contra carros importados. Além de piloto, Douglas também da aulas de
+                drift e tem um curso online de drift virtual para simuladores.
+            </p>
+        </div>
+
+        <div class="hero-gallery">
+            <div class="gallery-frame">
+                <img src="./img/dg01.jpg" alt="Foto do piloto 1" class="active" />
+                <img src="./img/dg02.jpg" alt="Foto do piloto 2" />
+                <button class="arrow left">&#10094;</button>
+                <button class="arrow right">&#10095;</button>
+            </div>
+        </div>
+    </section>
+    <!-- Popup de Imagem -->
+    <div id="image-popup" class="popup hidden">
+        <div class="popup-content">
+            <span class="close-btn">&times;</span>
+            <button class="popup-arrow left">&#10094;</button>
+            <img id="popup-image" src="" alt="Imagem em destaque">
+            <button class="popup-arrow right">&#10095;</button>
+        </div>
+    </div>
+    <script src="teste.js"></script>
+</body>
+
+</html>
