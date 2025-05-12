@@ -1,81 +1,67 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Landing Page do piloto Douglas Gatto" />
-    <title>Douglas Gatto | Piloto de Drift</title>
-    <link rel="stylesheet" href="doug.css" />
+    <title>Piloto de Drift</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="teste.css" />
 </head>
 
 <body>
 
-    <!-- Seção: Início -->
-    <section class="secao inicio">
-        <div class="conteudo layout-padrao">
-            <div class="imagem">
-                <img src="./img/dg01.jpg" alt="Douglas Gatto" class="foto-inicio" />
-            </div>
-            <div class="texto">
-                <h1>Douglas Gatto</h1>
-                <p>Piloto de Drift, destaque no Campeonato Brasileiro, professor de Drift real e virtual.</p>
-            </div>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Douglas Gatto</h1>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#galeria">Galeria</a></li>
+                    <li><a href="#carro">Carro</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h2>DOUGLAS GATTO</h2>
+            <p>
+                Nas pistas, ele deixa mais que marcas de pneus — deixa história.<br>
+                Com um Chevette que virou lenda e uma pegada agressiva que conquistou o Brasil, Douglas Gatto é um dos
+                nomes mais autênticos e respeitados do drift nacional.<br>
+                <br>
+                Vice-Campeão Brasileiro, presença constante nos pódios e nas redes, ele leva o drift para além das
+                competições — conecta fãs, inspira novos pilotos e movimenta uma comunidade apaixonada.<br>
+                <br>
+                Aqui você encontra tudo sobre sua trajetória, produtos oficiais, projetos especiais e como fazer parte
+                desse universo, seja como fã ou patrocinador.<br>
+                <br>
+                Bem-vindo ao mundo do Chevette de Drift. Bem-vindo ao mundo de Douglas Gatto.
+            </p>
         </div>
     </section>
 
-    <!-- Seção: Sobre -->
-    <section class="secao sobre">
-        <div class="conteudo layout-invertido">
-            <div class="texto">
-                <h2>Sobre o piloto:</h2>
-                <p>Douglas Gatto Lisboa é piloto de drift, atuando nos principais campeonatos nacionais. Além disso,
-                    ministra aulas presenciais e virtuais de drift.</p>
+    <section id="trabalhos" class="trabalhos">
+        <div class="trabalhos-container">
+            <div class="card">
+                <h3>Instagram</h3>
+                <p>Acompanhe os bastidores, treinos e competições em tempo real.</p>
+                <a href="https://www.instagram.com/chevettededrift/" target="_blank" class="btn">Ver perfil</a>
             </div>
-            <div class="imagem">
-                <img src="./img/dg02.jpg" alt="Douglas no carro" class="foto-padrao" />
+            <div class="card">
+                <h3>YouTube</h3>
+                <p>Assista aos vídeos dos eventos, dicas de drift e projetos especiais.</p>
+                <a href="https://www.youtube.com/@douglasgatto" target="_blank" class="btn">Ver canal</a>
             </div>
-        </div>
-    </section>
-
-    <!-- Seção: Aulas -->
-    <section class="secao aulas">
-        <div class="conteudo layout-padrao">
-            <div class="imagem">
-                <img src="./img/dgbc02.jpg" alt="Aulas de drift" class="foto-padrao" />
-            </div>
-            <div class="texto">
-                <h2>Aulas de Drift</h2>
-                <p>Aprenda drift com Douglas Gatto, tanto nos simuladores quanto presencialmente com o famoso Chevette
-                    de Drift.</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Seção: Chevette -->
-    <section class="secao chevette">
-        <div class="conteudo layout-invertido">
-            <div class="texto">
-                <h2>Chevette de Drift</h2>
-                <p>O lendário Chevette utilizado nos campeonatos, com preparação especializada para entregar alta
-                    performance nas pistas.</p>
-            </div>
-            <div class="imagem">
-                <img src="./img/dgbc01.jpg" alt="Chevette de Drift" class="foto-padrao" />
-            </div>
-        </div>
-    </section>
-
-    <!-- Seção: Contato -->
-    <section class="secao contato">
-        <div class="contato-conteudo">
-            <h2>Contatos:</h2>
-            <div class="contato-grid">
-                <a href="https://www.instagram.com/chevettededrift" target="_blank" class="btn-contato">Instagram</a>
-                <a href="https://www.facebook.com/chevettededrift" target="_blank" class="btn-contato">Facebook</a>
-                <a href="https://www.youtube.com/@douglasgatto" target="_blank" class="btn-contato">YouTube</a>
+            <div class="card">
+                <h3>Curso de Drift</h3>
+                <p>Quer aprender drift? Conheça o curso completo disponível na Hotmart.</p>
                 <a href="https://hotmart.com/pt-br/marketplace/produtos/piloto-de-drift-virtual/G90200323T"
-                    target="_blank" class="btn-contato">Curso de Drift</a>
+                    target="_blank" class="btn">Ver curso</a>
             </div>
         </div>
     </section>
