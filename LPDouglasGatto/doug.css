@@ -519,4 +519,23 @@ form button:hover {
   .hero-text p {
     font-size: 1rem;
   }
+
+  .video-destaque-container {
+    max-width: 1000px;
+    margin: 0 auto 4rem auto;
+    padding: 1rem;
+    background: rgba(40, 40, 40, 0.7);
+    /* você pode mudar esse background */
+    border-radius: 1rem;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+    text-align: center;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+
+  .video-title {
+    color: #4fa8ff;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
 }
