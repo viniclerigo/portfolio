@@ -1,24 +1,37 @@
+from faker import Faker
 import pandas as pd
 import random
+import os
 
-def gerar_nome_usuario():
-    nomes = ['Ana', 'Bruno', 'Carlos', 'Diana', 'Eduardo', 'Fernanda', 'Gustavo', 'Helena', 'Igor', 'Juliana']
-    sobrenomes = ['Silva', 'Costa', 'Souza', 'Pereira', 'Oliveira', 'Lima', 'Gomes', 'Ribeiro', 'Alves', 'Nascimento']
-    return f"{random.choice(nomes)} {random.choice(sobrenomes)}"
+# Inicializa o Faker para gerar dados em português do Brasil
+fake = Faker('pt_BR')
 
-def gerar_usuarios(num_usuarios=10, arquivo_saida=r'C:\Users\vncle\OneDrive\Documents\vscode\portfolio\assets\projetos\PyData\data\usuarios.csv'):
+def gerar_usuarios(num_usuarios=10, arquivo_saida='usuarios.csv'):
+    """
+    Gera uma lista de usuários (consultores/vendedores) com nomes realistas
+    e salva em um arquivo CSV.
+    """
     usuarios = []
     for id_usuario in range(1, num_usuarios + 1):
-        nome_usuario = gerar_nome_usuario()
-        meta_vendas = round(random.uniform(150000, 200000), 2)  # Meta entre 5k e 20k
         usuarios.append({
             'id_usuario': id_usuario,
-            'nome_usuario': nome_usuario,
-            'meta_vendas': meta_vendas
+            'nome_usuario': fake.name(), # Gera um nome completo realista
+            'meta_vendas': round(random.uniform(150000, 200000), 0)
         })
+    
     df_usuarios = pd.DataFrame(usuarios)
-    df_usuarios.to_csv(arquivo_saida, index=False)
-    print(f'Arquivo {arquivo_saida} gerado com {num_usuarios} usuários.')
+
+    # --- Lógica para salvar o arquivo na pasta 'data' ---
+    diretorio_script = os.path.dirname(os.path.abspath(__file__))
+    pasta_dados = os.path.join(diretorio_script, 'data')
+    
+    # if not os.path.exists(pasta_dados):
+    #     os.makedirs(pasta_dados)
+
+    caminho_arquivo = os.path.join(pasta_dados, arquivo_saida)
+    df_usuarios.to_csv(caminho_arquivo, index=False)
+    
+    print(f"Arquivo '{caminho_arquivo}' gerado com {num_usuarios} usuários.")
 
 if __name__ == '__main__':
     gerar_usuarios()

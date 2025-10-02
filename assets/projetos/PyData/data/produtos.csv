@@ -1,0 +1,6 @@
+id_produto,nome_servico,descricao,preco_unitario
+1,Desenvolvimento de Software Sob Medida,Criação de solução de software personalizada.,150000.0
+2,Desenvolvimento de Aplicativos (Mobile/Web),"Criação de aplicativos para iOS, Android e Web.",100000.0
+3,Consultoria em Arquitetura de Software,Planejamento e desenho da estrutura técnica de sistemas.,50000.0
+4,Alocação de Squads (Outsourcing),Fornecimento de equipes de desenvolvimento completas.,100000.0
+5,Manutenção e Suporte de Sistemas,Contratos de suporte e evolução de software legado.,10000.0
