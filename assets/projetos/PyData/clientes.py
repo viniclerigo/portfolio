@@ -20,7 +20,7 @@ def gerar_clientes(num_clientes=500, arquivo_saida='clientes.csv'):
         clientes.append({
             'id_cliente': id_cliente,
             'nome_cliente': fake.company(), # Gera um nome de empresa realista
-            'região': random.choice(regioes),
+            'regiao': random.choice(regioes),
             'canal_aquisicao': random.choice(canais_aquisicao),
             'data_cadastro': fake.date_between(start_date='-2y', end_date='today').strftime('%Y-%m-%d')
         })

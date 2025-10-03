@@ -1,501 +1,501 @@
-id_cliente,nome_cliente,região,canal_aquisicao,data_cadastro
-1,da Mata,Centro-Oeste,Site,2024-03-27
-2,Rodrigues,Nordeste,Meta,2024-04-22
-3,Oliveira Marques S/A,Sudeste,Site,2025-02-03
-4,Sales,Centro-Oeste,Meta,2024-02-10
-5,Mendonça,Sudeste,Google,2024-04-18
-6,Aparecida,Centro-Oeste,Google,2024-03-19
-7,Fernandes,Norte,Google,2025-04-16
-8,Vargas,Sul,Site,2024-09-16
-9,Barros,Centro-Oeste,Meta,2025-07-10
-10,Sales S/A,Nordeste,Site,2024-11-20
-11,da Luz,Nordeste,Google,2024-08-04
-12,Andrade,Sul,Site,2025-05-02
-13,da Cunha,Sudeste,Google,2025-01-24
-14,da Cunha,Nordeste,Google,2024-06-12
-15,Peixoto,Sudeste,Site,2025-09-24
-16,Peixoto,Centro-Oeste,Google,2024-04-08
-17,Sampaio Aragão S.A.,Sul,Google,2025-04-11
-18,Câmara,Norte,Site,2024-11-04
-19,Abreu,Nordeste,Google,2023-11-23
-20,Cavalcanti,Sudeste,Meta,2025-03-17
-21,Cardoso,Sudeste,Meta,2025-03-12
-22,Fernandes,Sudeste,Meta,2023-10-08
-23,Rios,Centro-Oeste,Google,2025-05-10
-24,Barbosa,Nordeste,Site,2024-08-09
-25,Barbosa Leão e Filhos,Nordeste,Site,2024-03-01
-26,Macedo,Sudeste,Meta,2024-02-05
-27,Costa Caldeira S.A.,Nordeste,Site,2025-01-06
-28,da Rocha - EI,Sul,Meta,2025-04-20
-29,Gonçalves,Norte,Meta,2025-09-30
-30,Cassiano Pimenta S.A.,Norte,Google,2024-04-03
-31,Gomes S.A.,Sudeste,Google,2024-04-23
-32,Dias,Centro-Oeste,Meta,2023-11-13
-33,Duarte,Centro-Oeste,Google,2025-06-29
-34,Albuquerque Siqueira - ME,Norte,Google,2025-06-12
-35,Melo S.A.,Sudeste,Google,2024-02-03
-36,Nunes,Nordeste,Google,2024-04-26
-37,da Rosa,Sul,Meta,2025-04-21
-38,Borges,Sul,Site,2025-01-04
-39,Montenegro Gomes S.A.,Sul,Google,2025-07-16
-40,Freitas Nogueira - EI,Nordeste,Meta,2024-03-07
-41,Casa Grande S.A.,Sudeste,Site,2025-09-20
-42,Mendonça Ltda.,Sudeste,Google,2025-01-17
-43,da Cunha Fogaça Ltda.,Sudeste,Meta,2025-01-11
-44,Fogaça - ME,Norte,Meta,2024-01-29
-45,Farias,Nordeste,Site,2024-01-14
-46,Santos,Nordeste,Meta,2024-06-14
-47,Pires,Nordeste,Meta,2024-10-16
-48,Rezende,Norte,Site,2024-05-09
-49,Porto,Sul,Google,2025-02-13
-50,Almeida,Centro-Oeste,Site,2025-08-30
-51,Porto - ME,Sudeste,Site,2024-07-20
-52,Cavalcanti,Sul,Google,2024-06-16
-53,Nogueira,Sudeste,Google,2024-07-10
-54,Garcia Fogaça e Filhos,Centro-Oeste,Google,2023-12-10
-55,Viana,Sul,Google,2025-08-01
-56,Rocha,Nordeste,Meta,2023-11-15
-57,Pastor,Sul,Meta,2025-07-23
-58,Fogaça,Norte,Google,2025-05-16
-59,Freitas Dias S/A,Centro-Oeste,Site,2023-10-13
-60,Mendonça - EI,Norte,Google,2025-02-07
-61,Moreira da Mota e Filhos,Nordeste,Site,2024-05-05
-62,da Mota,Sudeste,Site,2024-12-21
-63,Câmara - EI,Centro-Oeste,Meta,2025-01-14
-64,Guerra,Centro-Oeste,Google,2025-02-19
-65,Fernandes - EI,Sul,Meta,2024-12-25
-66,Montenegro,Sul,Meta,2024-04-30
-67,Aparecida,Sul,Meta,2025-07-04
-68,Sousa S/A,Sudeste,Google,2024-09-04
-69,Alves,Nordeste,Google,2024-07-28
-70,Cassiano - ME,Norte,Meta,2024-03-31
-71,Vasconcelos,Norte,Meta,2023-11-01
-72,Sales S/A,Norte,Meta,2024-12-02
-73,Mendes Ltda.,Sul,Google,2024-10-02
-74,Vargas Farias S/A,Sudeste,Meta,2024-02-12
-75,Rezende,Centro-Oeste,Meta,2024-08-22
-76,da Rosa - EI,Sudeste,Google,2024-12-23
-77,Cavalcanti Fogaça - ME,Centro-Oeste,Site,2024-11-17
-78,Santos,Nordeste,Meta,2025-05-30
-79,Azevedo e Filhos,Nordeste,Site,2023-11-21
-80,Melo Mendes - ME,Norte,Meta,2025-02-10
-81,Silva,Centro-Oeste,Meta,2025-03-26
-82,Nunes,Sul,Google,2024-04-20
-83,Novaes Gonçalves S.A.,Sudeste,Meta,2023-12-13
-84,Fonseca S/A,Sudeste,Google,2023-12-24
-85,Sá Gonçalves e Filhos,Nordeste,Site,2024-06-21
-86,Fonseca,Nordeste,Site,2024-05-11
-87,Rezende Albuquerque S.A.,Sudeste,Meta,2025-01-27
-88,Rios e Filhos,Sul,Meta,2023-11-20
-89,Abreu - EI,Sudeste,Meta,2024-05-14
-90,da Luz,Sudeste,Meta,2024-06-07
-91,Mendonça,Sudeste,Site,2025-05-16
-92,Nogueira da Rosa Ltda.,Norte,Meta,2025-09-05
-93,Correia,Nordeste,Meta,2024-11-19
-94,Ferreira Souza e Filhos,Nordeste,Site,2025-08-25
-95,Nunes,Sudeste,Google,2025-03-12
-96,Câmara Albuquerque S/A,Sul,Site,2025-01-05
-97,Correia,Norte,Google,2024-10-26
-98,Brito S/A,Sudeste,Meta,2024-12-30
-99,Rodrigues,Nordeste,Google,2025-09-04
-100,Pacheco Rodrigues e Filhos,Sudeste,Site,2024-10-27
-101,Sá,Sudeste,Google,2024-02-22
-102,Nunes,Centro-Oeste,Site,2023-10-08
-103,Sousa S.A.,Centro-Oeste,Site,2024-01-04
-104,da Rosa e Filhos,Sudeste,Meta,2024-05-08
-105,das Neves,Centro-Oeste,Site,2023-10-23
-106,Mendonça e Filhos,Sudeste,Google,2024-12-08
-107,Barros Porto S/A,Sul,Google,2024-10-15
-108,Viana,Centro-Oeste,Google,2023-12-22
-109,Araújo,Centro-Oeste,Google,2025-01-08
-110,Silva,Nordeste,Google,2025-04-25
-111,Cavalcanti Brito - EI,Sul,Site,2024-08-25
-112,Castro,Norte,Google,2025-08-26
-113,Lopes,Sudeste,Meta,2023-12-17
-114,Ramos,Norte,Site,2023-11-10
-115,Melo S/A,Sudeste,Site,2024-12-04
-116,Sampaio,Sul,Meta,2023-11-03
-117,Pereira S.A.,Sul,Meta,2024-03-01
-118,Freitas,Norte,Meta,2024-06-22
-119,Moraes,Sul,Meta,2025-03-29
-120,Mendonça,Nordeste,Site,2025-06-01
-121,Cavalcanti,Nordeste,Site,2025-06-23
-122,Martins Porto S/A,Sul,Site,2024-07-09
-123,Abreu Aragão - ME,Centro-Oeste,Meta,2025-05-19
-124,Gonçalves Pimenta - ME,Nordeste,Google,2024-03-12
-125,Sousa,Sul,Site,2023-10-28
-126,Viana,Norte,Meta,2024-04-20
-127,Azevedo Borges - EI,Sul,Site,2025-02-26
-128,da Cunha Sales Ltda.,Sul,Site,2025-03-15
-129,Brito e Filhos,Nordeste,Meta,2024-09-25
-130,Machado,Nordeste,Google,2024-10-06
-131,Jesus e Filhos,Nordeste,Site,2024-12-06
-132,Mendes,Nordeste,Google,2023-12-30
-133,Guerra Almeida e Filhos,Nordeste,Site,2025-04-03
-134,Cassiano S.A.,Sudeste,Google,2025-03-20
-135,Gonçalves Freitas - EI,Centro-Oeste,Site,2024-10-30
-136,Cirino,Nordeste,Site,2025-07-13
-137,Barros,Sul,Google,2023-11-02
-138,Freitas,Sudeste,Meta,2024-12-16
-139,Azevedo,Centro-Oeste,Meta,2024-02-11
-140,Aragão Machado S.A.,Centro-Oeste,Site,2024-02-04
-141,Rodrigues Pereira e Filhos,Centro-Oeste,Meta,2024-12-03
-142,Sousa - ME,Sul,Meta,2024-01-01
-143,Mendonça,Norte,Site,2023-11-09
-144,Melo Almeida e Filhos,Sul,Site,2024-10-17
-145,Casa Grande,Sul,Site,2025-04-22
-146,da Cunha,Sudeste,Site,2025-01-03
-147,Cardoso Lopes Ltda.,Centro-Oeste,Google,2024-10-18
-148,Cardoso - ME,Norte,Site,2024-03-12
-149,Montenegro e Filhos,Norte,Site,2025-08-05
-150,Silva Carvalho S.A.,Sudeste,Google,2025-08-03
-151,Cunha,Centro-Oeste,Meta,2024-03-19
-152,Sousa,Sul,Meta,2024-07-21
-153,Aragão Montenegro - EI,Norte,Meta,2025-02-02
-154,da Costa Garcia S/A,Centro-Oeste,Site,2024-05-12
-155,Rios S/A,Sudeste,Meta,2025-03-12
-156,da Rosa Cunha S.A.,Sul,Google,2025-09-06
-157,da Cunha,Norte,Site,2024-06-21
-158,Dias,Sul,Meta,2024-08-22
-159,Lopes,Sudeste,Site,2024-11-15
-160,Silveira,Nordeste,Meta,2024-09-02
-161,Pinto,Sudeste,Meta,2025-06-01
-162,Gomes - ME,Sudeste,Google,2023-12-10
-163,da Rocha e Filhos,Nordeste,Site,2025-08-26
-164,Rocha Moura S.A.,Norte,Meta,2024-07-09
-165,da Rocha S.A.,Norte,Site,2024-08-30
-166,da Mota,Centro-Oeste,Site,2023-12-12
-167,Câmara,Sudeste,Google,2023-10-25
-168,Monteiro,Centro-Oeste,Meta,2024-01-26
-169,Correia Moura - EI,Centro-Oeste,Google,2025-09-14
-170,Vargas Sousa - EI,Sudeste,Site,2024-06-04
-171,Pereira Ltda.,Nordeste,Site,2025-01-10
-172,Câmara,Centro-Oeste,Google,2025-01-22
-173,da Cunha - ME,Sudeste,Google,2024-09-10
-174,Farias S.A.,Centro-Oeste,Google,2024-05-02
-175,Lopes,Sul,Google,2025-07-29
-176,da Cunha,Centro-Oeste,Google,2025-08-06
-177,Rocha,Sudeste,Site,2024-09-14
-178,Montenegro S/A,Norte,Site,2023-11-15
-179,Macedo,Nordeste,Site,2024-10-25
-180,Andrade S.A.,Norte,Site,2025-06-01
-181,Leão,Nordeste,Meta,2024-10-22
-182,Moraes S/A,Norte,Site,2024-05-27
-183,da Rosa,Nordeste,Meta,2025-09-05
-184,Rezende,Nordeste,Google,2023-12-18
-185,Rodrigues e Filhos,Nordeste,Meta,2025-07-23
-186,Lopes,Norte,Site,2025-06-27
-187,Costa,Centro-Oeste,Google,2024-07-05
-188,Monteiro e Filhos,Norte,Google,2023-12-18
-189,Melo,Sudeste,Meta,2024-09-24
-190,Pires - EI,Centro-Oeste,Site,2024-11-02
-191,Silveira,Sul,Meta,2024-04-04
-192,Lopes,Sul,Site,2025-10-01
-193,Fogaça - EI,Centro-Oeste,Meta,2024-04-14
-194,Rocha S.A.,Centro-Oeste,Meta,2024-03-22
-195,da Mota Pires e Filhos,Norte,Meta,2023-11-14
-196,Mendonça Rodrigues - EI,Nordeste,Site,2024-07-20
-197,Azevedo da Luz - EI,Sul,Site,2024-04-25
-198,Lopes,Sudeste,Google,2025-06-28
-199,Rios,Sul,Meta,2024-02-15
-200,Sousa e Filhos,Sudeste,Site,2024-10-16
-201,Ferreira,Sul,Site,2025-02-14
-202,Cassiano Vargas Ltda.,Sul,Site,2025-04-12
-203,Sá,Nordeste,Google,2025-06-07
-204,Ferreira - ME,Sul,Meta,2023-11-17
-205,Cunha Pereira Ltda.,Norte,Google,2024-07-28
-206,Mendes,Sul,Meta,2024-04-28
-207,Viana Campos Ltda.,Norte,Meta,2025-02-07
-208,Sampaio - ME,Sudeste,Meta,2025-02-26
-209,Sampaio da Costa e Filhos,Nordeste,Site,2024-10-08
-210,Costa,Sul,Site,2024-06-08
-211,Aragão Campos - EI,Norte,Meta,2024-03-19
-212,Moura S.A.,Sudeste,Site,2025-05-24
-213,Mendonça Silva - EI,Norte,Meta,2025-02-09
-214,Mendes,Sudeste,Site,2025-01-27
-215,Pereira,Norte,Google,2024-05-01
-216,Sales,Sul,Google,2024-10-16
-217,Lopes,Nordeste,Site,2024-02-21
-218,Castro Carvalho Ltda.,Sul,Meta,2024-07-21
-219,Casa Grande,Sul,Site,2024-11-27
-220,Moreira - EI,Sul,Google,2025-08-23
-221,Silva,Nordeste,Site,2025-09-26
-222,Viana Sousa S.A.,Centro-Oeste,Site,2024-06-11
-223,Santos - EI,Sudeste,Google,2023-12-24
-224,Cavalcante,Sudeste,Meta,2024-10-06
-225,Almeida e Filhos,Centro-Oeste,Meta,2024-09-12
-226,Lima,Centro-Oeste,Site,2023-12-14
-227,Melo S/A,Sul,Site,2024-05-05
-228,Siqueira,Sudeste,Site,2024-06-20
-229,Barbosa,Nordeste,Site,2024-07-30
-230,Oliveira,Sudeste,Google,2024-12-04
-231,das Neves,Sudeste,Site,2025-01-25
-232,Farias,Nordeste,Meta,2025-03-17
-233,Freitas S/A,Centro-Oeste,Meta,2024-06-23
-234,Machado - EI,Centro-Oeste,Site,2023-11-17
-235,Pastor,Sul,Meta,2025-03-13
-236,Macedo das Neves S/A,Sul,Meta,2025-09-29
-237,Sousa,Sul,Site,2025-05-09
-238,Sá,Norte,Google,2023-12-10
-239,Machado e Filhos,Sudeste,Google,2024-02-18
-240,Nogueira,Sul,Google,2024-11-04
-241,Abreu,Centro-Oeste,Site,2024-06-20
-242,Santos,Sul,Google,2024-10-12
-243,Nascimento e Filhos,Sul,Google,2024-03-19
-244,Câmara Nunes e Filhos,Centro-Oeste,Meta,2025-03-06
-245,Azevedo Mendes S/A,Centro-Oeste,Site,2025-03-26
-246,Farias,Sul,Meta,2024-01-09
-247,Mendonça Novais S.A.,Sul,Meta,2024-06-16
-248,Borges,Norte,Google,2025-01-11
-249,Rios,Centro-Oeste,Site,2025-01-29
-250,Vieira Almeida S/A,Centro-Oeste,Meta,2023-11-19
-251,Rocha e Filhos,Sul,Google,2024-11-07
-252,da Mota,Norte,Meta,2025-03-16
-253,Peixoto,Centro-Oeste,Google,2023-10-04
-254,Borges,Sul,Google,2024-01-23
-255,da Mota Costela Ltda.,Sul,Site,2024-10-29
-256,Montenegro Correia Ltda.,Nordeste,Site,2023-11-22
-257,Siqueira,Centro-Oeste,Site,2024-10-05
-258,Cardoso,Norte,Meta,2024-01-19
-259,Sá da Rocha e Filhos,Nordeste,Meta,2024-11-30
-260,Costa,Sudeste,Google,2025-02-10
-261,Pastor,Norte,Site,2024-07-01
-262,da Cruz,Centro-Oeste,Google,2024-02-22
-263,Azevedo,Norte,Google,2025-07-09
-264,Silveira,Nordeste,Meta,2025-08-04
-265,Rezende,Sudeste,Site,2024-09-09
-266,Fernandes S.A.,Nordeste,Google,2025-09-20
-267,Oliveira Pacheco S/A,Sul,Google,2024-02-10
-268,Machado S/A,Sudeste,Site,2024-12-08
-269,Pinto,Norte,Meta,2025-03-14
-270,Cavalcanti - ME,Sul,Site,2024-12-28
-271,Câmara Almeida - ME,Nordeste,Meta,2023-10-22
-272,Campos,Nordeste,Meta,2025-08-31
-273,Cardoso,Norte,Site,2024-06-22
-274,da Paz Lopes S/A,Sul,Site,2024-03-27
-275,Moraes,Sudeste,Site,2024-07-24
-276,Jesus,Sudeste,Site,2023-11-27
-277,Guerra,Norte,Meta,2023-12-07
-278,Correia S/A,Sul,Site,2024-07-14
-279,Alves,Sul,Google,2025-09-09
-280,Peixoto Souza - EI,Centro-Oeste,Meta,2025-01-04
-281,Dias,Norte,Site,2024-12-02
-282,Porto e Filhos,Sudeste,Google,2023-12-08
-283,Pinto,Centro-Oeste,Google,2024-12-09
-284,Rocha Costa S/A,Centro-Oeste,Site,2024-09-07
-285,Almeida,Centro-Oeste,Site,2024-12-19
-286,da Cunha S.A.,Sul,Google,2024-11-09
-287,Lopes S.A.,Centro-Oeste,Site,2024-04-20
-288,da Rocha Viana S.A.,Sul,Google,2024-03-16
-289,da Paz Casa Grande S/A,Sudeste,Meta,2025-08-13
-290,Silva Rocha - EI,Sul,Meta,2024-03-28
-291,Carvalho Ltda.,Centro-Oeste,Meta,2024-09-19
-292,Azevedo Ltda.,Sul,Site,2024-01-22
-293,Silveira S.A.,Sudeste,Meta,2024-08-11
-294,Pinto Fonseca S/A,Sul,Google,2024-11-28
-295,Azevedo - EI,Sudeste,Site,2024-10-04
-296,Rezende,Centro-Oeste,Site,2025-06-18
-297,Barbosa e Filhos,Nordeste,Google,2023-10-25
-298,Sousa,Sul,Site,2024-07-15
-299,da Costa Cassiano S.A.,Sul,Meta,2025-01-29
-300,Montenegro,Sudeste,Google,2024-09-04
-301,Melo,Sul,Meta,2024-03-28
-302,Pacheco,Norte,Google,2023-12-20
-303,Nunes Cassiano e Filhos,Sudeste,Meta,2024-12-08
-304,Gomes,Sul,Google,2024-04-03
-305,Nascimento Rodrigues e Filhos,Sul,Meta,2024-04-13
-306,da Mata das Neves - ME,Norte,Meta,2024-10-04
-307,Gonçalves e Filhos,Nordeste,Google,2024-02-19
-308,das Neves,Sul,Site,2025-06-14
-309,Rocha,Sul,Google,2024-04-07
-310,Sousa,Centro-Oeste,Google,2023-12-12
-311,Andrade,Norte,Google,2025-02-11
-312,Barbosa,Sudeste,Site,2025-04-25
-313,Azevedo Santos Ltda.,Centro-Oeste,Site,2023-12-03
-314,Cassiano - ME,Centro-Oeste,Site,2025-05-12
-315,Costa Novais Ltda.,Nordeste,Meta,2024-09-01
-316,Costela Casa Grande S/A,Sul,Google,2025-09-17
-317,Azevedo,Sul,Site,2024-12-26
-318,Caldeira,Norte,Meta,2024-07-13
-319,Barros S.A.,Sudeste,Google,2025-09-14
-320,Barbosa,Sul,Site,2023-11-26
-321,Fonseca Lima S.A.,Sul,Meta,2025-06-12
-322,Aparecida Ltda.,Nordeste,Site,2025-01-29
-323,Sampaio S/A,Centro-Oeste,Google,2024-08-10
-324,Sousa Cavalcante S/A,Sudeste,Google,2023-10-11
-325,Vargas Montenegro S/A,Sudeste,Google,2024-10-16
-326,da Rosa,Sul,Google,2024-10-17
-327,Moura,Centro-Oeste,Meta,2024-10-17
-328,Cunha,Nordeste,Site,2024-07-04
-329,Cassiano,Sul,Google,2024-05-27
-330,Oliveira Brito - ME,Norte,Google,2024-10-01
-331,Gomes S.A.,Sul,Google,2025-03-05
-332,Pinto Ltda.,Norte,Google,2024-11-05
-333,Albuquerque,Sudeste,Site,2024-01-03
-334,Jesus Vargas - EI,Sul,Meta,2025-05-21
-335,Lima,Sudeste,Site,2023-10-21
-336,Fogaça,Centro-Oeste,Site,2024-03-12
-337,Fonseca Lopes - EI,Sudeste,Meta,2025-06-16
-338,Leão,Sudeste,Site,2024-10-31
-339,Nascimento Vargas S.A.,Centro-Oeste,Google,2023-10-07
-340,Pacheco e Filhos,Nordeste,Meta,2024-02-28
-341,Pimenta,Sudeste,Meta,2023-11-29
-342,da Conceição,Sudeste,Site,2023-11-15
-343,Aragão,Sul,Meta,2024-12-10
-344,Montenegro,Sul,Google,2025-09-27
-345,Camargo,Nordeste,Site,2024-07-19
-346,Monteiro Aparecida - EI,Nordeste,Google,2025-07-30
-347,Albuquerque S/A,Centro-Oeste,Site,2025-09-29
-348,Cunha Freitas S/A,Nordeste,Site,2025-06-09
-349,Abreu,Sul,Meta,2025-06-27
-350,Guerra,Centro-Oeste,Site,2023-10-19
-351,Mendes,Sul,Site,2025-08-26
-352,Campos Garcia Ltda.,Sudeste,Site,2024-07-10
-353,Silva Lima - EI,Sudeste,Meta,2025-08-12
-354,da Conceição Ltda.,Sul,Google,2025-07-24
-355,da Mota Lima - EI,Centro-Oeste,Meta,2025-06-01
-356,Souza,Norte,Meta,2025-07-12
-357,Gomes,Centro-Oeste,Google,2024-12-15
-358,Sampaio S.A.,Nordeste,Meta,2024-09-18
-359,Ramos S.A.,Nordeste,Meta,2024-07-22
-360,Sousa S/A,Norte,Site,2024-10-08
-361,Casa Grande,Nordeste,Meta,2024-09-05
-362,Barbosa Ltda.,Nordeste,Google,2024-12-17
-363,Martins Ltda.,Sul,Google,2025-04-13
-364,Souza S.A.,Sudeste,Google,2025-05-22
-365,Borges,Sudeste,Google,2023-10-31
-366,Santos - ME,Centro-Oeste,Google,2024-06-26
-367,Correia,Sul,Site,2023-10-11
-368,Ribeiro,Norte,Site,2024-08-08
-369,Nascimento da Cunha - ME,Sul,Google,2023-11-14
-370,da Rocha Fernandes Ltda.,Centro-Oeste,Site,2024-10-30
-371,da Paz Ltda.,Centro-Oeste,Google,2024-07-26
-372,Mendes Machado - EI,Sul,Meta,2024-05-20
-373,Moreira Ltda.,Sul,Site,2023-10-19
-374,Oliveira Ltda.,Sul,Site,2024-07-30
-375,Monteiro Ltda.,Sudeste,Meta,2024-05-17
-376,Montenegro - EI,Norte,Google,2025-07-16
-377,Martins,Sul,Google,2025-04-07
-378,Silva Campos - EI,Sul,Meta,2024-12-19
-379,Gonçalves Vasconcelos e Filhos,Centro-Oeste,Google,2025-03-24
-380,Cardoso - EI,Sul,Google,2024-02-18
-381,Nascimento Rodrigues - EI,Norte,Site,2025-08-01
-382,Machado - ME,Sudeste,Site,2024-09-05
-383,da Cruz,Sul,Meta,2023-11-04
-384,Novaes,Sul,Meta,2025-03-03
-385,Cunha,Norte,Site,2024-07-10
-386,Marques - EI,Sudeste,Google,2024-05-19
-387,Duarte - ME,Centro-Oeste,Google,2025-05-18
-388,Araújo,Sudeste,Site,2025-09-25
-389,Melo Cardoso S/A,Sul,Google,2025-02-06
-390,Castro Fogaça S.A.,Sul,Google,2024-09-09
-391,Mendes,Norte,Meta,2025-04-05
-392,Moura Silveira Ltda.,Sudeste,Google,2024-03-21
-393,Porto,Centro-Oeste,Google,2024-12-29
-394,Costa Lima e Filhos,Nordeste,Google,2025-03-09
-395,Vasconcelos,Sul,Site,2025-05-26
-396,Abreu S/A,Sudeste,Meta,2024-04-06
-397,da Rocha Alves S/A,Nordeste,Google,2023-12-01
-398,Mendes,Centro-Oeste,Site,2025-09-02
-399,Andrade Barros S/A,Sudeste,Site,2024-10-14
-400,Rios Cunha Ltda.,Sul,Google,2024-02-23
-401,Carvalho e Filhos,Centro-Oeste,Site,2024-01-12
-402,Ferreira,Norte,Google,2025-06-05
-403,Porto Ltda.,Norte,Site,2023-11-23
-404,Barros,Sul,Google,2024-06-16
-405,da Cruz,Sudeste,Site,2025-06-19
-406,Moreira,Centro-Oeste,Google,2024-07-01
-407,Pinto Ltda.,Sudeste,Site,2024-01-14
-408,Caldeira Cunha S.A.,Centro-Oeste,Site,2024-09-03
-409,da Luz,Norte,Google,2024-05-31
-410,Duarte e Filhos,Sudeste,Site,2024-05-26
-411,Viana,Sudeste,Google,2025-05-10
-412,da Rocha - ME,Nordeste,Site,2024-08-05
-413,da Conceição S/A,Sudeste,Site,2025-01-10
-414,Garcia Teixeira Ltda.,Centro-Oeste,Google,2024-12-26
-415,Freitas Vargas - ME,Centro-Oeste,Site,2024-02-27
-416,Rezende,Norte,Google,2025-05-23
-417,Sampaio Pimenta - EI,Centro-Oeste,Meta,2024-03-13
-418,Farias Lima S.A.,Norte,Meta,2024-06-02
-419,Cavalcante - EI,Norte,Meta,2023-10-16
-420,Rocha Moraes e Filhos,Norte,Google,2023-10-24
-421,Moreira Ltda.,Centro-Oeste,Meta,2023-10-03
-422,Rios Farias e Filhos,Sul,Site,2025-05-19
-423,Costa,Sudeste,Meta,2025-08-16
-424,Azevedo - EI,Norte,Site,2025-04-08
-425,Sousa,Sudeste,Site,2024-07-24
-426,Gomes,Nordeste,Site,2023-11-02
-427,Câmara S.A.,Centro-Oeste,Google,2024-09-18
-428,da Rosa,Nordeste,Site,2024-04-07
-429,Monteiro - ME,Nordeste,Meta,2025-04-13
-430,da Paz,Nordeste,Google,2024-01-25
-431,Gonçalves,Sul,Google,2025-07-15
-432,Cirino,Centro-Oeste,Google,2025-08-12
-433,Moreira - EI,Nordeste,Site,2024-09-27
-434,Gonçalves,Sul,Google,2023-12-28
-435,Rodrigues,Nordeste,Google,2023-10-20
-436,Nunes,Sul,Google,2025-07-10
-437,Pacheco,Norte,Google,2025-08-05
-438,da Cunha Ltda.,Nordeste,Google,2025-09-27
-439,da Costa,Norte,Site,2024-02-08
-440,Alves Vasconcelos - EI,Sul,Meta,2024-08-25
-441,Dias S.A.,Nordeste,Google,2024-09-23
-442,Pacheco,Sudeste,Site,2025-06-16
-443,Abreu,Nordeste,Site,2025-02-21
-444,Sales,Sul,Site,2024-04-22
-445,Farias,Nordeste,Site,2025-03-18
-446,da Rocha,Nordeste,Site,2023-10-20
-447,Azevedo Pires Ltda.,Centro-Oeste,Meta,2025-04-22
-448,da Mota - EI,Norte,Google,2025-01-13
-449,Aparecida - EI,Sul,Site,2024-09-09
-450,Dias,Norte,Meta,2024-05-10
-451,Abreu Alves S/A,Centro-Oeste,Meta,2024-03-08
-452,Nascimento,Nordeste,Google,2024-03-06
-453,Silveira,Nordeste,Site,2024-03-13
-454,Barros Cunha - EI,Centro-Oeste,Site,2025-03-10
-455,da Cunha,Norte,Meta,2025-08-31
-456,Pastor Moura S.A.,Nordeste,Google,2025-08-28
-457,Moraes S/A,Norte,Site,2025-07-20
-458,Costa Lima e Filhos,Sudeste,Meta,2024-03-02
-459,Freitas,Sudeste,Site,2024-06-18
-460,Mendonça Sousa - EI,Centro-Oeste,Google,2024-12-08
-461,Silva,Sudeste,Site,2025-01-07
-462,Souza S.A.,Sul,Meta,2025-05-29
-463,Pires,Norte,Google,2025-02-16
-464,das Neves Ferreira - EI,Norte,Meta,2024-01-14
-465,Melo,Nordeste,Site,2024-10-28
-466,Silveira - EI,Norte,Meta,2024-01-29
-467,Ribeiro,Nordeste,Site,2024-09-20
-468,da Mota Melo - ME,Nordeste,Google,2025-06-30
-469,Barros Rios Ltda.,Sul,Site,2024-07-03
-470,Almeida e Filhos,Nordeste,Site,2024-06-20
-471,Moreira - EI,Centro-Oeste,Meta,2025-06-30
-472,Guerra,Sul,Site,2024-02-29
-473,Aragão S.A.,Sul,Google,2025-06-07
-474,Vasconcelos Mendes e Filhos,Sul,Site,2024-03-07
-475,Pimenta - EI,Sul,Site,2024-11-26
-476,Sousa Ltda.,Sul,Site,2024-05-05
-477,da Cunha Moura Ltda.,Nordeste,Google,2025-06-17
-478,Pereira,Nordeste,Site,2025-08-16
-479,Costa,Sudeste,Site,2025-07-03
-480,Lopes,Sudeste,Site,2023-12-20
-481,Lopes,Centro-Oeste,Meta,2024-11-03
-482,Duarte - EI,Sudeste,Meta,2025-02-04
-483,Brito,Norte,Google,2023-12-01
-484,Teixeira e Filhos,Centro-Oeste,Meta,2024-09-23
-485,Albuquerque,Sul,Google,2025-04-14
-486,Ferreira,Nordeste,Meta,2024-08-07
-487,Fogaça Ltda.,Sudeste,Meta,2024-01-31
-488,Azevedo Montenegro Ltda.,Sudeste,Site,2025-09-28
-489,Casa Grande S.A.,Nordeste,Meta,2024-11-15
-490,Oliveira,Norte,Google,2025-09-17
-491,Peixoto,Centro-Oeste,Meta,2023-11-11
-492,Novaes e Filhos,Centro-Oeste,Meta,2024-01-10
-493,Dias S.A.,Sul,Meta,2024-10-08
-494,Rezende Barros Ltda.,Sul,Meta,2025-07-11
-495,Viana S.A.,Sudeste,Site,2024-07-23
-496,Brito - ME,Nordeste,Site,2024-07-29
-497,Abreu,Centro-Oeste,Site,2024-03-09
-498,Alves,Centro-Oeste,Site,2024-07-18
-499,Santos,Norte,Site,2024-03-04
-500,Alves Nascimento - ME,Sudeste,Site,2024-02-06
+id_cliente,nome_cliente,regiao,canal_aquisicao,data_cadastro
+1,Cavalcanti,Sudeste,Meta,2024-10-24
+2,Barros,Sul,Site,2025-04-02
+3,Freitas Cunha S/A,Sudeste,Google,2024-07-01
+4,da Conceição,Norte,Site,2024-06-04
+5,Pereira - EI,Sul,Site,2025-04-07
+6,Fogaça S/A,Norte,Google,2024-08-20
+7,Santos e Filhos,Sul,Google,2025-08-29
+8,da Cruz - ME,Norte,Meta,2023-12-01
+9,Pacheco S.A.,Sudeste,Meta,2024-07-23
+10,Vieira S/A,Norte,Site,2024-03-25
+11,da Cruz,Nordeste,Meta,2024-12-06
+12,Cunha,Nordeste,Site,2023-10-24
+13,Carvalho,Sul,Site,2025-04-30
+14,Siqueira,Nordeste,Meta,2024-09-03
+15,Correia,Sudeste,Meta,2024-06-18
+16,Costa Ramos S/A,Nordeste,Site,2025-01-31
+17,Fonseca,Norte,Google,2024-06-12
+18,Siqueira S/A,Norte,Site,2025-06-11
+19,Lopes,Nordeste,Google,2024-10-05
+20,Siqueira - EI,Sudeste,Site,2023-10-14
+21,Moreira,Nordeste,Google,2025-06-17
+22,da Mota S/A,Sudeste,Google,2024-02-10
+23,Aparecida - ME,Sul,Google,2024-01-01
+24,Mendonça,Centro-Oeste,Meta,2025-06-11
+25,Viana S.A.,Nordeste,Google,2025-01-13
+26,Aparecida S.A.,Norte,Meta,2025-06-14
+27,Costela Nogueira - ME,Centro-Oeste,Site,2024-02-14
+28,Marques,Sul,Google,2023-10-30
+29,Gonçalves,Sul,Google,2024-02-20
+30,Sampaio,Norte,Google,2024-08-07
+31,Sá Barbosa - ME,Sul,Site,2023-10-28
+32,Almeida Fernandes S/A,Sul,Site,2025-01-14
+33,Pereira,Centro-Oeste,Google,2024-08-10
+34,Araújo,Sul,Google,2025-08-02
+35,Machado,Norte,Site,2025-05-15
+36,Borges,Centro-Oeste,Site,2023-11-16
+37,Sá e Filhos,Centro-Oeste,Google,2025-01-10
+38,Alves Ltda.,Sudeste,Site,2023-11-19
+39,Vieira,Centro-Oeste,Meta,2023-12-11
+40,Moreira,Sul,Meta,2023-10-17
+41,Macedo da Rocha - ME,Nordeste,Meta,2024-02-01
+42,Cunha,Centro-Oeste,Meta,2024-03-10
+43,Silveira Melo - EI,Nordeste,Google,2024-11-27
+44,Pires Farias - ME,Sudeste,Meta,2025-02-14
+45,Monteiro,Centro-Oeste,Google,2024-07-20
+46,Cardoso,Norte,Google,2024-10-17
+47,Pereira,Nordeste,Google,2025-08-13
+48,Alves,Sudeste,Google,2024-11-07
+49,Nascimento - EI,Sudeste,Google,2024-08-20
+50,Costa Brito - ME,Centro-Oeste,Meta,2024-02-04
+51,Guerra,Centro-Oeste,Google,2025-09-23
+52,Peixoto,Centro-Oeste,Site,2024-08-16
+53,Machado e Filhos,Sul,Site,2025-03-11
+54,Campos Ltda.,Centro-Oeste,Meta,2025-09-13
+55,Macedo - EI,Sul,Google,2024-09-19
+56,Aragão S.A.,Nordeste,Site,2024-10-12
+57,Santos S/A,Nordeste,Google,2024-10-03
+58,Montenegro,Centro-Oeste,Google,2025-04-21
+59,Nascimento Porto e Filhos,Nordeste,Google,2024-06-02
+60,Cunha,Norte,Meta,2025-06-08
+61,Mendes Sales - EI,Sul,Meta,2023-12-04
+62,Souza,Sul,Site,2024-05-30
+63,da Luz,Sul,Meta,2024-05-09
+64,Santos,Nordeste,Google,2025-07-07
+65,Ribeiro,Sul,Google,2023-12-29
+66,da Mata,Sul,Meta,2024-01-05
+67,Machado Aragão - EI,Centro-Oeste,Google,2025-07-05
+68,Silva - EI,Nordeste,Google,2023-12-06
+69,Lima,Sul,Google,2025-04-08
+70,Fonseca Sampaio - EI,Nordeste,Google,2024-01-01
+71,Gonçalves - ME,Nordeste,Meta,2024-08-10
+72,Fogaça,Sudeste,Meta,2024-10-09
+73,Araújo Andrade e Filhos,Sul,Site,2025-02-24
+74,Guerra - EI,Sudeste,Google,2025-01-15
+75,das Neves - EI,Centro-Oeste,Google,2024-11-28
+76,Martins,Nordeste,Site,2024-11-07
+77,Cavalcanti,Norte,Google,2024-10-22
+78,Mendonça - ME,Centro-Oeste,Google,2025-06-16
+79,Pereira Ltda.,Centro-Oeste,Google,2025-02-10
+80,Costa - ME,Sul,Google,2024-07-02
+81,Cavalcante S.A.,Nordeste,Google,2025-09-18
+82,Casa Grande S.A.,Nordeste,Meta,2025-06-05
+83,Oliveira,Sudeste,Meta,2023-10-28
+84,Cavalcanti Cunha Ltda.,Centro-Oeste,Google,2024-01-23
+85,Vasconcelos Abreu e Filhos,Centro-Oeste,Site,2025-01-23
+86,Novais,Sudeste,Site,2025-09-06
+87,Montenegro S.A.,Norte,Google,2024-06-01
+88,Fogaça,Sudeste,Meta,2024-01-23
+89,Moreira,Nordeste,Site,2025-05-03
+90,Azevedo S.A.,Sudeste,Meta,2025-05-03
+91,Ramos,Nordeste,Meta,2025-09-07
+92,da Luz e Filhos,Centro-Oeste,Google,2024-08-16
+93,Rocha S.A.,Norte,Site,2024-11-19
+94,Viana S/A,Nordeste,Google,2024-03-04
+95,Marques,Norte,Google,2025-05-09
+96,Costela Camargo Ltda.,Sul,Meta,2023-10-09
+97,da Mota,Centro-Oeste,Site,2025-03-17
+98,Andrade,Nordeste,Meta,2025-09-23
+99,da Paz,Sudeste,Site,2024-03-24
+100,Porto,Centro-Oeste,Google,2024-02-23
+101,Lopes,Centro-Oeste,Meta,2024-02-11
+102,Pinto Correia - ME,Sul,Google,2024-11-10
+103,Dias,Sudeste,Site,2025-01-22
+104,Correia,Norte,Google,2023-10-24
+105,Barros - ME,Sudeste,Site,2025-06-13
+106,Carvalho,Nordeste,Meta,2024-09-07
+107,Nascimento - ME,Norte,Google,2025-09-07
+108,Azevedo,Nordeste,Google,2023-10-30
+109,Moreira,Norte,Site,2024-04-18
+110,Casa Grande,Nordeste,Google,2024-01-05
+111,Fernandes,Nordeste,Google,2025-04-14
+112,Alves,Sudeste,Meta,2024-11-12
+113,Andrade Vargas e Filhos,Sudeste,Google,2024-06-20
+114,Albuquerque,Sul,Google,2025-01-28
+115,Dias,Norte,Site,2024-01-20
+116,Cardoso,Sul,Meta,2024-04-28
+117,Sousa,Norte,Site,2024-06-22
+118,da Cunha,Centro-Oeste,Google,2024-02-13
+119,Brito,Centro-Oeste,Site,2024-11-24
+120,Pinto Guerra - ME,Sul,Site,2024-09-30
+121,Fonseca Moura - ME,Norte,Site,2025-03-02
+122,Sá,Norte,Site,2025-06-17
+123,Novaes,Norte,Google,2024-03-01
+124,Andrade,Nordeste,Site,2024-04-19
+125,Vieira Abreu S.A.,Nordeste,Site,2023-11-28
+126,Machado,Centro-Oeste,Site,2025-01-14
+127,Guerra,Sul,Google,2024-11-29
+128,Pinto Machado - EI,Nordeste,Meta,2025-04-13
+129,Rezende,Centro-Oeste,Google,2024-02-23
+130,Silva,Sudeste,Google,2024-10-12
+131,Pinto Ramos - EI,Nordeste,Google,2024-12-08
+132,Camargo Moreira S.A.,Sudeste,Meta,2024-05-14
+133,Martins,Centro-Oeste,Site,2024-03-15
+134,Cassiano,Nordeste,Site,2023-12-07
+135,Correia Costa S/A,Nordeste,Meta,2023-10-17
+136,da Costa Cardoso S.A.,Sul,Meta,2024-07-08
+137,Nascimento,Nordeste,Site,2024-08-23
+138,Cavalcanti e Filhos,Centro-Oeste,Google,2024-12-04
+139,Montenegro S.A.,Sul,Google,2024-07-05
+140,Castro Farias - ME,Centro-Oeste,Meta,2025-05-05
+141,Fernandes S/A,Norte,Meta,2024-11-23
+142,Lopes,Sudeste,Google,2025-08-08
+143,Oliveira,Sudeste,Site,2025-05-12
+144,da Mota S/A,Sul,Site,2023-10-18
+145,Souza,Nordeste,Google,2024-07-13
+146,Porto,Sul,Google,2024-07-08
+147,Gonçalves e Filhos,Sul,Site,2024-10-26
+148,Fonseca da Cruz - ME,Sul,Google,2024-07-01
+149,Cassiano,Sul,Google,2024-11-02
+150,Ferreira S.A.,Sudeste,Meta,2025-01-12
+151,Gomes - ME,Sul,Meta,2024-11-20
+152,Araújo Fogaça S.A.,Sul,Google,2025-04-09
+153,Cassiano - EI,Centro-Oeste,Meta,2024-01-03
+154,Correia,Nordeste,Meta,2025-08-01
+155,Pires,Centro-Oeste,Site,2024-07-03
+156,Fogaça Nunes - ME,Nordeste,Site,2024-09-04
+157,Novaes,Nordeste,Site,2025-08-22
+158,Campos,Sul,Site,2024-01-07
+159,Rodrigues,Norte,Site,2024-12-21
+160,Vargas,Sudeste,Meta,2025-04-19
+161,Castro e Filhos,Nordeste,Meta,2024-12-20
+162,Camargo - ME,Centro-Oeste,Site,2024-10-27
+163,Moreira - EI,Norte,Google,2024-01-27
+164,Nogueira,Norte,Google,2024-11-29
+165,Cirino,Sul,Site,2023-12-28
+166,Santos,Sudeste,Meta,2025-09-13
+167,Lima S/A,Sudeste,Meta,2025-03-26
+168,Barros,Sul,Site,2024-10-22
+169,Oliveira,Nordeste,Meta,2025-05-19
+170,Andrade Nunes e Filhos,Sudeste,Site,2024-04-27
+171,Leão Pires e Filhos,Sul,Meta,2024-01-28
+172,Oliveira Lopes S/A,Nordeste,Meta,2024-01-31
+173,Machado Macedo Ltda.,Centro-Oeste,Meta,2023-11-29
+174,Brito,Nordeste,Site,2023-10-19
+175,Vasconcelos Mendes - EI,Sudeste,Google,2024-07-30
+176,Porto,Sudeste,Meta,2025-02-25
+177,Lopes,Sudeste,Site,2025-03-14
+178,Marques Rodrigues - ME,Sul,Google,2024-04-19
+179,Rezende,Norte,Google,2025-05-07
+180,Pimenta - EI,Sul,Site,2025-08-22
+181,da Mata - EI,Sudeste,Google,2025-06-16
+182,Borges,Sudeste,Site,2024-11-22
+183,Albuquerque Gonçalves Ltda.,Centro-Oeste,Google,2023-12-31
+184,Castro S.A.,Nordeste,Google,2023-11-20
+185,da Cruz Mendonça S.A.,Norte,Meta,2024-09-18
+186,Cavalcanti Pimenta S.A.,Sudeste,Site,2023-10-21
+187,Dias,Sul,Meta,2024-03-02
+188,Caldeira,Nordeste,Google,2024-11-20
+189,Farias,Norte,Google,2024-03-28
+190,Leão S.A.,Centro-Oeste,Site,2024-08-20
+191,Viana,Sudeste,Site,2024-10-07
+192,Souza,Sudeste,Google,2024-03-01
+193,Novaes e Filhos,Sudeste,Meta,2024-05-18
+194,Carvalho,Nordeste,Meta,2024-06-04
+195,Jesus,Nordeste,Meta,2025-08-30
+196,da Paz,Sudeste,Site,2023-11-06
+197,Andrade Azevedo - EI,Nordeste,Meta,2024-12-17
+198,Vieira e Filhos,Centro-Oeste,Google,2024-01-05
+199,Viana Rios S.A.,Centro-Oeste,Meta,2024-03-17
+200,Mendes Santos Ltda.,Centro-Oeste,Google,2025-01-22
+201,Siqueira S.A.,Sudeste,Meta,2023-10-08
+202,Siqueira - EI,Norte,Site,2024-06-08
+203,Cassiano Alves S.A.,Nordeste,Site,2025-02-15
+204,Siqueira,Nordeste,Meta,2025-03-06
+205,Sá Lima Ltda.,Centro-Oeste,Site,2025-04-15
+206,Azevedo,Norte,Site,2024-04-22
+207,Brito - ME,Sudeste,Meta,2024-04-14
+208,Macedo,Nordeste,Site,2024-01-25
+209,Azevedo Barbosa S/A,Sul,Meta,2024-06-11
+210,Moreira e Filhos,Sudeste,Meta,2025-08-17
+211,Sales Peixoto e Filhos,Sudeste,Site,2023-12-04
+212,da Luz,Nordeste,Site,2024-11-29
+213,Fogaça,Nordeste,Google,2024-03-12
+214,Pimenta Caldeira e Filhos,Centro-Oeste,Site,2025-09-01
+215,Siqueira - ME,Sudeste,Meta,2025-05-28
+216,Freitas da Rosa Ltda.,Sul,Meta,2025-01-16
+217,Moura e Filhos,Sudeste,Google,2024-10-24
+218,Fonseca,Norte,Google,2025-04-28
+219,Alves,Sul,Google,2025-08-02
+220,Pinto - ME,Nordeste,Site,2024-03-28
+221,Siqueira,Norte,Meta,2025-09-05
+222,Sousa - ME,Norte,Google,2024-02-20
+223,da Cruz Souza S/A,Norte,Google,2024-01-05
+224,Porto - ME,Centro-Oeste,Meta,2023-10-12
+225,Ferreira,Centro-Oeste,Meta,2025-03-15
+226,Montenegro,Nordeste,Google,2025-02-09
+227,Dias,Nordeste,Site,2025-07-14
+228,da Paz,Sudeste,Site,2024-05-06
+229,Vargas Vargas e Filhos,Nordeste,Site,2025-04-11
+230,Novais Novais S.A.,Sudeste,Google,2025-09-16
+231,Viana Ltda.,Nordeste,Meta,2025-04-01
+232,Machado Almeida Ltda.,Norte,Google,2024-02-13
+233,Pereira Monteiro S.A.,Centro-Oeste,Meta,2025-05-05
+234,Cassiano,Sul,Meta,2024-12-20
+235,das Neves Pereira S/A,Sul,Meta,2024-02-04
+236,Moura Vieira - ME,Sul,Meta,2024-06-18
+237,Ribeiro Cardoso - EI,Nordeste,Meta,2025-09-19
+238,da Paz,Sudeste,Google,2024-05-06
+239,Novais Mendonça Ltda.,Sudeste,Meta,2025-03-13
+240,Costa Novais S.A.,Nordeste,Google,2024-12-13
+241,Peixoto - ME,Norte,Google,2025-04-18
+242,Andrade,Norte,Site,2024-02-11
+243,Abreu,Centro-Oeste,Meta,2025-01-11
+244,Fonseca S.A.,Norte,Meta,2024-04-26
+245,Macedo,Nordeste,Site,2023-12-14
+246,Cunha e Filhos,Sul,Google,2025-06-06
+247,Correia,Nordeste,Google,2024-11-01
+248,Pires Moraes S.A.,Norte,Site,2024-12-21
+249,Caldeira - EI,Nordeste,Site,2023-12-11
+250,Cunha,Centro-Oeste,Google,2024-09-03
+251,Casa Grande,Norte,Site,2023-10-04
+252,Novaes - EI,Norte,Site,2025-06-14
+253,Souza,Sul,Google,2024-04-22
+254,Ferreira Sales - ME,Norte,Google,2024-12-26
+255,Caldeira,Centro-Oeste,Google,2025-07-09
+256,Cavalcante,Norte,Site,2024-03-11
+257,Marques,Sudeste,Site,2024-08-04
+258,Souza,Sudeste,Site,2024-12-06
+259,da Conceição Camargo e Filhos,Sudeste,Google,2024-01-10
+260,Andrade Costela e Filhos,Sudeste,Meta,2023-12-21
+261,Cavalcanti,Centro-Oeste,Site,2025-09-14
+262,Azevedo - ME,Sudeste,Google,2024-09-15
+263,Moura,Nordeste,Google,2023-12-21
+264,Albuquerque,Nordeste,Site,2025-05-21
+265,Cavalcanti,Norte,Google,2024-12-21
+266,Rios - EI,Norte,Meta,2025-02-26
+267,Mendonça,Norte,Site,2024-10-12
+268,Rios Ltda.,Norte,Site,2023-12-13
+269,Mendonça,Sul,Site,2023-11-15
+270,Teixeira e Filhos,Sudeste,Google,2025-10-02
+271,da Costa,Sudeste,Site,2023-11-26
+272,Silveira,Centro-Oeste,Site,2024-01-15
+273,Garcia,Centro-Oeste,Google,2024-08-28
+274,Abreu,Centro-Oeste,Site,2025-01-10
+275,Correia Ltda.,Sul,Site,2024-09-19
+276,Campos e Filhos,Norte,Meta,2025-03-16
+277,Correia,Sudeste,Google,2024-05-10
+278,da Mata,Sudeste,Site,2024-05-11
+279,Pinto,Centro-Oeste,Google,2024-06-21
+280,Moreira S/A,Norte,Meta,2025-04-12
+281,Andrade Fernandes - ME,Nordeste,Google,2023-11-18
+282,da Costa,Centro-Oeste,Google,2024-01-02
+283,Freitas Melo e Filhos,Nordeste,Site,2024-07-18
+284,Pimenta S.A.,Centro-Oeste,Meta,2023-11-20
+285,Duarte Teixeira S.A.,Norte,Site,2024-10-09
+286,Ribeiro,Sudeste,Meta,2025-09-28
+287,Viana - ME,Centro-Oeste,Site,2024-01-11
+288,Ferreira Camargo e Filhos,Norte,Google,2024-02-08
+289,da Rosa e Filhos,Norte,Google,2024-04-07
+290,Guerra,Nordeste,Meta,2024-02-28
+291,Gomes Montenegro - EI,Centro-Oeste,Meta,2024-07-15
+292,Nogueira,Sudeste,Site,2024-06-14
+293,Castro,Centro-Oeste,Site,2025-01-14
+294,Vieira,Sudeste,Site,2023-12-29
+295,Costa,Nordeste,Meta,2024-02-15
+296,Moraes,Norte,Site,2025-06-10
+297,Cavalcanti Pereira S.A.,Sul,Meta,2025-01-06
+298,Jesus,Nordeste,Meta,2025-08-25
+299,Ribeiro,Sul,Site,2024-11-11
+300,Mendonça,Sul,Meta,2024-07-27
+301,Sá,Nordeste,Site,2025-08-06
+302,Farias,Sul,Google,2024-03-14
+303,Novaes Gonçalves S.A.,Centro-Oeste,Meta,2024-05-12
+304,da Costa e Filhos,Norte,Meta,2024-05-11
+305,Cavalcanti,Centro-Oeste,Site,2025-05-06
+306,Câmara,Sudeste,Site,2023-10-23
+307,da Mata,Sudeste,Meta,2024-01-15
+308,da Paz - ME,Centro-Oeste,Site,2024-02-12
+309,Vieira,Sudeste,Site,2023-10-31
+310,Ribeiro - ME,Norte,Google,2024-08-15
+311,Caldeira - EI,Norte,Meta,2025-05-23
+312,Cunha - ME,Centro-Oeste,Meta,2024-10-01
+313,Souza,Sul,Meta,2024-09-23
+314,Rocha Santos - ME,Sudeste,Google,2025-01-20
+315,Cassiano Vieira e Filhos,Sudeste,Site,2025-03-08
+316,Alves Viana - ME,Norte,Site,2025-03-14
+317,Fonseca S.A.,Nordeste,Site,2024-04-24
+318,Martins,Nordeste,Site,2025-05-13
+319,da Cruz,Nordeste,Site,2024-01-26
+320,Borges Moreira Ltda.,Norte,Meta,2025-05-31
+321,Castro - ME,Nordeste,Google,2025-03-05
+322,Nunes S.A.,Centro-Oeste,Meta,2024-06-15
+323,da Mota,Centro-Oeste,Site,2025-01-13
+324,Gonçalves,Centro-Oeste,Google,2025-07-30
+325,Novais S/A,Sul,Meta,2024-08-01
+326,Martins - EI,Norte,Meta,2025-08-04
+327,da Rocha,Sudeste,Site,2024-11-02
+328,da Luz,Sudeste,Meta,2024-04-08
+329,Fogaça,Centro-Oeste,Meta,2024-06-17
+330,Borges da Mota - EI,Centro-Oeste,Site,2024-09-23
+331,Fogaça - ME,Sudeste,Site,2024-09-04
+332,Pacheco Carvalho S.A.,Nordeste,Google,2024-03-10
+333,Silva,Norte,Meta,2024-12-23
+334,Monteiro,Centro-Oeste,Site,2025-01-21
+335,da Rocha,Nordeste,Google,2024-07-10
+336,Abreu e Filhos,Sul,Site,2023-10-20
+337,Garcia,Sul,Site,2024-11-19
+338,Leão,Sul,Meta,2025-04-08
+339,da Conceição Ltda.,Centro-Oeste,Site,2024-06-18
+340,da Cruz S/A,Sul,Meta,2024-03-18
+341,Teixeira,Norte,Meta,2024-05-31
+342,Leão Nunes - ME,Centro-Oeste,Site,2025-08-06
+343,Fonseca Nascimento S/A,Norte,Meta,2025-03-24
+344,Teixeira,Sudeste,Google,2025-04-09
+345,da Mata,Sudeste,Site,2025-05-15
+346,Sampaio Casa Grande e Filhos,Sul,Google,2025-04-15
+347,Fernandes,Centro-Oeste,Site,2024-10-04
+348,Caldeira,Nordeste,Google,2025-06-05
+349,da Paz da Luz e Filhos,Centro-Oeste,Meta,2024-08-13
+350,Pires,Sul,Meta,2024-10-06
+351,Gomes,Centro-Oeste,Site,2023-10-23
+352,Silveira - ME,Sudeste,Meta,2023-11-11
+353,Dias,Norte,Google,2024-04-01
+354,Oliveira,Nordeste,Google,2024-02-16
+355,Borges e Filhos,Centro-Oeste,Google,2025-06-15
+356,Almeida,Sul,Meta,2024-03-13
+357,da Rosa,Sudeste,Meta,2024-06-17
+358,Ribeiro Ltda.,Sudeste,Google,2024-04-21
+359,Rodrigues,Sudeste,Google,2024-07-23
+360,Nunes S.A.,Norte,Site,2023-12-04
+361,Souza Aragão S/A,Centro-Oeste,Meta,2024-05-26
+362,Gomes da Luz S.A.,Sudeste,Google,2023-10-25
+363,Garcia,Centro-Oeste,Site,2025-08-24
+364,Machado,Sudeste,Site,2024-09-27
+365,Siqueira,Sudeste,Site,2024-12-02
+366,Aragão Ltda.,Sudeste,Site,2024-07-10
+367,Castro,Norte,Meta,2025-06-17
+368,Ferreira S/A,Nordeste,Site,2025-02-10
+369,Farias,Nordeste,Google,2024-05-29
+370,Costa,Nordeste,Site,2024-04-10
+371,da Cruz,Nordeste,Google,2024-02-10
+372,da Costa,Nordeste,Google,2023-12-29
+373,Peixoto Cassiano S/A,Norte,Meta,2024-10-14
+374,Marques,Centro-Oeste,Site,2025-08-16
+375,Macedo,Sudeste,Meta,2024-11-13
+376,Cardoso,Centro-Oeste,Site,2023-11-07
+377,Guerra Ltda.,Centro-Oeste,Google,2024-10-04
+378,Costa,Sudeste,Site,2025-09-24
+379,Viana,Norte,Meta,2023-12-11
+380,Freitas Teixeira - ME,Nordeste,Site,2024-07-03
+381,Silveira - ME,Centro-Oeste,Site,2024-07-19
+382,Casa Grande Pereira S.A.,Sudeste,Google,2024-06-01
+383,da Paz,Centro-Oeste,Google,2024-08-30
+384,Camargo,Centro-Oeste,Meta,2024-05-14
+385,Garcia,Sul,Site,2025-08-21
+386,Duarte - EI,Sul,Google,2024-12-16
+387,Silva Pimenta S.A.,Nordeste,Site,2023-10-15
+388,Fonseca,Sul,Site,2024-09-10
+389,Viana da Conceição Ltda.,Sul,Google,2025-08-30
+390,Cassiano Moreira e Filhos,Centro-Oeste,Meta,2025-09-26
+391,Abreu,Sul,Site,2024-07-24
+392,Alves - EI,Sul,Site,2023-12-25
+393,Ribeiro,Centro-Oeste,Google,2024-06-27
+394,Abreu Albuquerque S.A.,Norte,Site,2023-12-26
+395,Sá da Rocha - ME,Sul,Site,2024-09-17
+396,Andrade,Sul,Site,2024-05-05
+397,Pereira S/A,Nordeste,Meta,2024-11-28
+398,Casa Grande Machado Ltda.,Norte,Site,2024-07-26
+399,Aragão,Centro-Oeste,Site,2023-10-04
+400,Albuquerque,Centro-Oeste,Site,2024-07-18
+401,Rezende,Norte,Google,2025-02-19
+402,Nogueira,Sul,Google,2025-04-23
+403,Azevedo - EI,Sul,Meta,2024-07-18
+404,Pereira - ME,Sul,Google,2024-02-04
+405,da Mota Brito e Filhos,Sul,Site,2023-10-29
+406,Fernandes Cardoso S.A.,Nordeste,Site,2025-02-25
+407,Porto - EI,Centro-Oeste,Site,2025-04-07
+408,Macedo Cirino - EI,Norte,Site,2024-02-17
+409,Ramos,Sul,Meta,2023-11-01
+410,Rios e Filhos,Sul,Google,2025-04-11
+411,Leão e Filhos,Nordeste,Site,2024-05-18
+412,Freitas - EI,Centro-Oeste,Google,2024-12-12
+413,Cardoso Ltda.,Norte,Site,2025-03-30
+414,Sousa - EI,Norte,Google,2023-11-24
+415,Ramos,Sul,Google,2024-08-04
+416,da Mota,Sul,Meta,2024-12-03
+417,Ribeiro,Sudeste,Google,2025-04-02
+418,Gomes,Sul,Site,2025-07-09
+419,Marques S/A,Norte,Google,2024-01-06
+420,Martins S.A.,Sudeste,Meta,2025-05-01
+421,Lopes da Mata - EI,Sul,Site,2024-05-12
+422,Correia,Centro-Oeste,Site,2025-03-24
+423,Pimenta Silveira - EI,Nordeste,Meta,2024-05-20
+424,Nogueira,Nordeste,Google,2024-04-03
+425,Rios Souza S.A.,Norte,Site,2025-03-07
+426,Monteiro e Filhos,Sul,Meta,2024-05-09
+427,Albuquerque Fogaça S.A.,Norte,Site,2024-05-04
+428,Sá Ltda.,Sudeste,Google,2024-10-22
+429,Vargas - EI,Centro-Oeste,Google,2024-05-03
+430,das Neves Porto S.A.,Norte,Meta,2025-05-17
+431,Silveira,Sudeste,Google,2024-03-17
+432,Almeida,Sul,Meta,2025-01-03
+433,Aparecida Rezende S.A.,Centro-Oeste,Site,2025-03-26
+434,Sales Marques S/A,Nordeste,Google,2025-09-14
+435,Macedo Ltda.,Centro-Oeste,Site,2025-08-31
+436,Peixoto,Centro-Oeste,Google,2024-11-18
+437,Fonseca Barbosa Ltda.,Sul,Google,2025-06-15
+438,Novais,Norte,Google,2025-04-14
+439,Pastor - ME,Nordeste,Google,2024-07-08
+440,da Rosa,Sul,Meta,2024-06-29
+441,Barbosa Borges - EI,Sudeste,Google,2024-12-27
+442,Souza,Nordeste,Meta,2024-11-15
+443,da Luz Ramos Ltda.,Sul,Meta,2024-08-29
+444,Rocha S/A,Sudeste,Meta,2024-09-25
+445,Aparecida S.A.,Norte,Site,2024-06-06
+446,Cavalcanti S/A,Centro-Oeste,Google,2024-11-13
+447,Silva Cassiano e Filhos,Sudeste,Meta,2024-01-18
+448,Duarte,Centro-Oeste,Google,2024-05-08
+449,Azevedo S/A,Nordeste,Google,2024-08-21
+450,Novaes Almeida - EI,Norte,Meta,2025-07-19
+451,Caldeira e Filhos,Norte,Google,2024-09-03
+452,Novais,Sul,Meta,2024-11-09
+453,Cunha da Cunha S/A,Sul,Google,2025-04-04
+454,Garcia Siqueira S/A,Centro-Oeste,Site,2024-07-06
+455,Macedo,Centro-Oeste,Meta,2025-09-01
+456,Macedo Teixeira - ME,Sul,Google,2025-02-08
+457,Rezende Santos S.A.,Sudeste,Google,2024-11-08
+458,Cavalcante Porto e Filhos,Nordeste,Site,2024-12-27
+459,Barbosa,Nordeste,Google,2025-09-14
+460,Duarte Gonçalves - EI,Centro-Oeste,Meta,2024-06-19
+461,Mendonça,Centro-Oeste,Meta,2023-11-18
+462,Caldeira Siqueira Ltda.,Nordeste,Site,2025-07-26
+463,Borges,Nordeste,Meta,2024-06-14
+464,Pacheco - ME,Sul,Meta,2023-12-26
+465,Cassiano Rios S/A,Norte,Google,2024-01-28
+466,Martins Pereira e Filhos,Norte,Site,2024-08-19
+467,Souza,Sul,Site,2024-02-22
+468,Silveira - ME,Sul,Google,2025-06-05
+469,Teixeira,Norte,Meta,2024-12-24
+470,Rodrigues da Rosa S/A,Sul,Meta,2025-06-22
+471,da Rosa,Centro-Oeste,Google,2025-06-22
+472,Sampaio Albuquerque Ltda.,Norte,Site,2024-01-21
+473,Dias - ME,Sul,Meta,2024-01-13
+474,Mendonça,Nordeste,Site,2024-07-30
+475,da Cunha S.A.,Nordeste,Meta,2024-09-30
+476,Santos,Sudeste,Meta,2025-05-29
+477,Cunha Dias S.A.,Centro-Oeste,Google,2025-06-12
+478,Albuquerque Costa e Filhos,Nordeste,Meta,2024-01-08
+479,Martins,Sul,Google,2024-06-29
+480,Machado,Norte,Meta,2024-06-30
+481,Cavalcante,Nordeste,Site,2025-07-23
+482,Sales,Centro-Oeste,Site,2025-04-04
+483,Aparecida,Norte,Meta,2025-01-22
+484,Rocha,Nordeste,Google,2025-04-29
+485,Marques S/A,Nordeste,Google,2025-05-27
+486,Vieira - EI,Sul,Meta,2024-07-15
+487,Souza,Sul,Google,2023-11-06
+488,Castro - ME,Nordeste,Site,2024-02-24
+489,Nogueira,Norte,Site,2025-02-16
+490,Moraes,Centro-Oeste,Site,2025-08-28
+491,Sales Freitas e Filhos,Nordeste,Site,2024-10-22
+492,Mendes Barros S.A.,Nordeste,Site,2025-07-30
+493,Guerra S/A,Centro-Oeste,Google,2024-10-27
+494,Gonçalves - EI,Nordeste,Google,2024-11-05
+495,Barbosa,Centro-Oeste,Meta,2024-11-09
+496,da Costa,Centro-Oeste,Google,2025-07-18
+497,Freitas Ltda.,Sudeste,Google,2023-11-22
+498,Rezende,Norte,Meta,2025-03-27
+499,Pinto,Nordeste,Meta,2023-12-07
+500,Cavalcante S.A.,Nordeste,Meta,2023-10-09
