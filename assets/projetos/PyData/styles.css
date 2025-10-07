@@ -1,0 +1,239 @@
+/* ========================================= */
+/* Estilos Globais e Reset                   */
+/* ========================================= */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f7f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+.dashboard-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+/* ========================================= */
+/* Header                                    */
+/* ========================================= */
+.main-header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #dee2e6;
+    margin-bottom: 10px;
+}
+
+.main-header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #212529;
+}
+
+.main-header p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+/* ========================================= */
+/* Estilo Base do Card                       */
+/* ========================================= */
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    padding: 25px;
+    border: 1px solid #e9ecef;
+}
+
+/* ========================================= */
+/* Filtros Globais                           */
+/* ========================================= */
+#form-filtros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: flex-end;
+}
+
+.filtro-item {
+    flex: 1 1 180px;
+    /* Cresce e encolhe, com base de 180px */
+    display: flex;
+    flex-direction: column;
+}
+
+.filtro-item label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #495057;
+}
+
+.filtro-item select {
+    width: 100%;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+    background-color: #fff;
+    font-size: 0.95rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.filtro-item select:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+}
+
+.filtro-botoes button {
+    padding: 9px 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+}
+
+#botao-aplicar {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#botao-aplicar:hover {
+    background-color: #0056b3;
+}
+
+#botao-resetar {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+#botao-resetar:hover {
+    background-color: #5a6268;
+}
+
+.filtro-botoes button:active {
+    transform: translateY(1px);
+}
+
+/* ========================================= */
+/* KPIs                                      */
+/* ========================================= */
+.kpi-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 25px;
+}
+
+.kpi-card {
+    text-align: center;
+}
+
+.kpi-card h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #6c757d;
+    margin-bottom: 8px;
+}
+
+.kpi-card p {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #212529;
+}
+
+/* ========================================= */
+/* Gráficos                                  */
+/* ========================================= */
+#graficos-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* Duas colunas de tamanho igual */
+    gap: 25px;
+}
+
+/* Adicione este novo estilo no seu styles.css */
+.chart-container {
+    position: relative;
+    height: 350px;
+    /* Defina a altura que desejar para os gráficos */
+    width: 100%;
+}
+
+.grafico-card {
+    position: relative;
+    padding-bottom: 40px;
+    /* Espaço para o canvas respirar */
+}
+
+.grafico-card h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Primeiro gráfico ocupa duas colunas */
+#graficos-container .grafico-card:first-child {
+    grid-column: 1 / -1;
+}
+
+.grafico-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.granularidade-controles {
+    display: flex;
+    gap: 15px;
+}
+
+.granularidade-controles label {
+    font-size: 0.85rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* ========================================= */
+/* Responsividade                            */
+/* ========================================= */
+@media (max-width: 992px) {
+    #graficos-container {
+        grid-template-columns: 1fr;
+        /* Uma coluna para tablets */
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .dashboard-container {
+        padding: 10px;
+        gap: 20px;
+    }
+
+    #form-filtros {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .filtro-botoes {
+        flex-direction: column;
+    }
+}

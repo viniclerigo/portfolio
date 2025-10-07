@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Vendas</title>
+
+    <!-- Biblioteca de Gráficos (Chart.js) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Arquivo de Estilos CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header class="main-header">
+        <h1>Dashboard de Vendas</h1>
+        <p>Análise de Performance da Consultoria</p>
+    </header>
+
+    <main class="dashboard-container">
+        <!-- Seção de Filtros Globais -->
+        <section id="filtros-globais" class="card">
+            <h2>Filtros</h2>
+            <form id="form-filtros">
+                <div class="filtro-item">
+                    <label for="filtro-ano">Ano:</label>
+                    <select id="filtro-ano" name="ano">
+                        <!-- Opções de ano serão preenchidas via JS -->
+                    </select>
+                </div>
+                <div class="filtro-item">
+                    <label for="filtro-regiao">Região:</label>
+                    <select id="filtro-regiao" name="regiao">
+                        <!-- Opções de região serão preenchidas via JS -->
+                    </select>
+                </div>
+                <div class="filtro-item">
+                    <label for="filtro-vendedor">Vendedor:</label>
+                    <select id="filtro-vendedor" name="vendedor">
+                        <!-- Opções de vendedor serão preenchidas via JS -->
+                    </select>
+                </div>
+                <div class="filtro-item">
+                    <label for="filtro-produto">Produto:</label>
+                    <select id="filtro-produto" name="produto">
+                        <!-- Opções de produto serão preenchidas via JS -->
+                    </select>
+                </div>
+                <div class="filtro-botoes">
+                    <button type="button" id="botao-aplicar">Aplicar</button>
+                    <button type="button" id="botao-resetar">Limpar Filtros</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- Seção de KPIs -->
+        <section id="kpis" class="kpi-container">
+            <div class="card kpi-card">
+                <h3>Faturamento Total</h3>
+                <p id="valor-faturamento">R$ 0,00</p>
+            </div>
+            <div class="card kpi-card">
+                <h3>Total de Vendas</h3>
+                <p id="valor-vendas">0</p>
+            </div>
+            <div class="card kpi-card">
+                <h3>Ticket Médio</h3>
+                <p id="valor-ticket-medio">R$ 0,00</p>
+            </div>
+        </section>
+
+        <!-- Seção de Gráficos -->
+        <section id="graficos-container">
+            <div class="card grafico-card">
+                <div class="grafico-header">
+                    <h3>Evolução do Faturamento</h3>
+                    <div class="granularidade-controles">
+                        <label><input type="radio" name="evolucao-granularidade" value="mes" checked> Mês</label>
+                        <label><input type="radio" name="evolucao-granularidade" value="trimestre"> Trimestre</label>
+                        <label><input type="radio" name="evolucao-granularidade" value="ano"> Ano</label>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="grafico-evolucao"></canvas>
+                </div>
+            </div>
+
+            <div class="card grafico-card">
+                <h3>Vendas por Região</h3>
+                <div class="chart-container">
+                    <canvas id="grafico-regiao"></canvas>
+                </div>
+            </div>
+
+            <div class="card grafico-card">
+                <h3>Top 5 Vendedores (Faturamento)</h3>
+                <div class="chart-container">
+                    <canvas id="grafico-vendedor"></canvas>
+                </div>
+            </div>
+
+            <div class="card grafico-card">
+                <h3>Vendas por Produto</h3>
+                <div class="chart-container">
+                    <canvas id="grafico-produto"></canvas>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Arquivo de Script JavaScript -->
+    <script src="script.js"></script>
+</body>
+
+</html>
