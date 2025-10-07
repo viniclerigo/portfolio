@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const valores = itens.map(([, valor]) => valor);
 
         const config = {
-            type: horizontal ? 'bar' : 'bar',
+            type: 'bar',
             data: {
                 labels: labels,
                 datasets: [{
@@ -143,8 +143,23 @@ document.addEventListener('DOMContentLoaded', () => {
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-                plugins: { legend: { display: false } },
-            }
+                plugins: {
+                    legend: { display: false },
+                    // Configuração dos Data Labels
+                    datalabels: {
+                        display: true,
+                        // Para barras verticais (Produto), a cor preta fica melhor
+                        color: horizontal ? '#fff' : '#333',
+                        font: { weight: 'bold' },
+                        // Para barras horizontais o alinhamento é diferente
+                        anchor: horizontal ? 'start' : 'end',
+                        align: horizontal ? 'end' : 'top',
+                        formatter: (value) => formatarMoeda(value)
+                    }
+                },
+            },
+            // Registra o plugin para este gráfico
+            plugins: [ChartDataLabels],
         };
 
         criarOuAtualizarGrafico(idCanvas, config);
@@ -161,11 +176,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const dadosAgrupados = dados.reduce((acc, item) => {
             const chave = chaveAgrupamento.map(k => {
-                // Se a granularidade for 'mes' E a chave atual for 'mes', formate o valor
                 if (granularidade === 'mes' && k === 'mes') {
                     return String(item[k]).padStart(2, '0');
                 }
-                // Para todos os outros casos, retorne o valor normal
                 return item[k];
             }).join(granularidade === 'trimestre' ? '-T' : '-');
 
@@ -191,8 +204,25 @@ document.addEventListener('DOMContentLoaded', () => {
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-                scales: { y: { beginAtZero: true } }
-            }
+                scales: { y: { beginAtZero: true } },
+                plugins: {
+                    legend: { display: false },
+                    // Configuração dos Data Labels
+                    datalabels: {
+                        display: true,
+                        anchor: 'end',
+                        align: 'top',
+                        color: '#555',
+                        font: { weight: 'bold' },
+                        formatter: function (value) {
+                            // Formata o número como moeda
+                            return formatarMoeda(value);
+                        }
+                    }
+                }
+            },
+            // Registra o plugin para este gráfico
+            plugins: [ChartDataLabels],
         };
 
         criarOuAtualizarGrafico('grafico-evolucao', config);
@@ -219,7 +249,24 @@ document.addEventListener('DOMContentLoaded', () => {
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-            }
+                plugins: {
+                    legend: { position: 'top' }, // Move a legenda para o topo
+                    // Configuração dos Data Labels
+                    datalabels: {
+                        display: true,
+                        color: '#fff',
+                        font: { weight: 'bold' },
+                        // Formata para mostrar a porcentagem
+                        formatter: (value, ctx) => {
+                            const total = ctx.chart.getDatasetMeta(0).total;
+                            const percentage = (value / total * 100).toFixed(1) + '%';
+                            return percentage;
+                        },
+                    }
+                }
+            },
+            // Registra o plugin para este gráfico
+            plugins: [ChartDataLabels],
         };
 
         criarOuAtualizarGrafico(idCanvas, config);
