@@ -1,0 +1,3792 @@
+[
+  {
+    "ano":2023,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2023,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2023,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":11,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":11,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":11,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":11,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":11,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":200000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":11,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":20000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2024,
+    "trimestre":4,
+    "mes":12,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":1,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":2,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":1,
+    "mes":3,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":300000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":4,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":5,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":2,
+    "mes":6,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":7,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":8,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Carlos Eduardo Fonseca",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Norte",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Francisco Pereira",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Consultoria em Arquitetura de Software",
+    "faturamento":50000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Enzo Araújo",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":3,
+    "mes":9,
+    "regiao":"Sul",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Diogo Carvalho",
+    "nome_servico":"Desenvolvimento de Aplicativos (Mobile\/Web)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. João Felipe Cunha",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Centro-Oeste",
+    "canal_aquisicao":"Site",
+    "nome_usuario":"Dr. Danilo Teixeira",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Nordeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Sr. Luan Araújo",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Mariane da Rosa",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sudeste",
+    "canal_aquisicao":"Meta",
+    "nome_usuario":"Alana Vieira",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Alocação de Squads (Outsourcing)",
+    "faturamento":100000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Desenvolvimento de Software Sob Medida",
+    "faturamento":150000.0
+  },
+  {
+    "ano":2025,
+    "trimestre":4,
+    "mes":10,
+    "regiao":"Sul",
+    "canal_aquisicao":"Google",
+    "nome_usuario":"Eduardo das Neves",
+    "nome_servico":"Manutenção e Suporte de Sistemas",
+    "faturamento":10000.0
+  }
+]
