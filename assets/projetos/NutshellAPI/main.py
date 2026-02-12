@@ -16,19 +16,19 @@ def main():
     """
     print("Iniciando processo de tratamento de leads...")
     try:
-        # Etapa 1: Coleta de Dados
+        # Coleta de Dados
         leads_raw = getLeads(BASE_URL, HEADERS)
         if not leads_raw:
             print("Nenhum lead retornado pela API. Encerrando.")
             return
 
-        # Etapa 2: Normalização Inicial
+        # Normalização inicial
         df = pd.json_normalize(leads_raw)
         
-        # Etapa 3: Processamento e Limpeza do DataFrame
-        df_processado = processa_dataframe(df)
+        # Processamento e Limpeza do DataFrame
+        df_processado = trataLeads(df)
         
-        # Etapa 4: Salvamento do Resultado
+        # Salvamento do Resultado
         df_processado.to_json(OUTPUT_FILENAME, orient='records', date_format='iso')
         print(f"Processo finalizado com sucesso! {len(df_processado)} registros salvos em '{OUTPUT_FILENAME}'.")
 

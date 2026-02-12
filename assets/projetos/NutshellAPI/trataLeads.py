@@ -13,7 +13,7 @@ COLUNAS_DELETAR = [
     "overdueTime_value", "closedTime_absoluteLocalizedString", "closedTime_value"
 ]
 
-def processa_dataframe(df: pd.DataFrame) -> pd.DataFrame:
+def trataLeads(df: pd.DataFrame) -> pd.DataFrame:
     """
     Aplica todas as transformações de limpeza e padronização no DataFrame de leads.
     """
