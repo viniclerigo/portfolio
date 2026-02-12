@@ -1,5 +1,4 @@
 import pandas as pd
-from getLeads import getLeads
 
 # --- Constantes e Configurações ---
 COLUNAS_DELETAR = [

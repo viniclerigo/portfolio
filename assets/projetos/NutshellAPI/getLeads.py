@@ -3,7 +3,7 @@ import requests
 
 def getLeads(base_url, headers, limit=100):
     """
-    Coleta todos os leads de uma API paginada.
+    Coleta todos os leads do CRM.
 
     Args:
         base_url (str): A URL base da API, incluindo parâmetros exceto o número da página.
