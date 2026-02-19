@@ -25,3 +25,4 @@ APIs necessárias:
 Feito até o momento:
 - getLeads;
 - getPipelines;
+- getStages;
