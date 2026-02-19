@@ -103,3 +103,5 @@ if __name__ == "__main__":
     print("Executando getPipelines.py em modo de teste...")
 
     mainPipelines()
+
+    print("Pipelines coletados, tratados e armazenados.")
