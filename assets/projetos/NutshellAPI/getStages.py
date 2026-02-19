@@ -79,6 +79,7 @@ def mainStages():
         "authorization": "Basic amltQGRlbW8ubnV0c2hlbGwuY29tOjQzYzc4OWQ0ODNmZDc2NTQ3YjFmMTU3ZTNjZjVlNTgwYjk1YjlkOGM="
     }
     output_filename = 'stages.json'
+    output_path = f"assets/projetos/NutshellAPI/json/{output_filename}"
 
     try:
         # 1. Coleta de dados
@@ -94,7 +95,7 @@ def mainStages():
         df_processado = trataStages(df)
 
         # 4. Salvando resultado
-        df_processado.to_json(output_filename, orient='records', date_format='iso')
+        df_processado.to_json(output_path, orient='records', date_format='iso')
         print(f"Processo finalizado com sucesso! {len(df_processado)} registros salvos em '{output_filename}'.")
     
     except Exception as e:

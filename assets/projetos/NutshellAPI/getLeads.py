@@ -119,6 +119,8 @@ def mainLeads():
         "authorization": "Basic amltQGRlbW8ubnV0c2hlbGwuY29tOjQzYzc4OWQ0ODNmZDc2NTQ3YjFmMTU3ZTNjZjVlNTgwYjk1YjlkOGM="
     }
     output_filename = 'leads.json'
+    output_path = f"assets/projetos/NutshellAPI/json/{output_filename}"
+
     print("Iniciando processo de tratamento de leads...")
     try:
         # Coleta de Dados
@@ -134,7 +136,7 @@ def mainLeads():
         df_processado = trataLeads(df)
         
         # Salvamento do Resultado
-        df_processado.to_json(output_filename, orient='records', date_format='iso')
+        df_processado.to_json(output_path, orient='records', date_format='iso')
         print(f"Processo finalizado com sucesso! {len(df_processado)} registros salvos em '{output_filename}'.")
 
     except FileNotFoundError:
