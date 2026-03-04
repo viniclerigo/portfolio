@@ -118,7 +118,13 @@ if __name__ == "__main__":
     teste = getAccounts(base_url, headers=headers)
 
     df = pd.json_normalize(teste)
+    df.columns = [col.replace(".", "_").replace("links_", "id_") for col in df.columns]
+    colunas_id = ["id", "id_creator", "id_owner", "id_territory", "id_tags", "id_followup",
+                  "id_recurringTask", "id_contacts", "id_accountType", "id_industry"]
+    for col in colunas_id:
+        df[col] = df[col].apply(lambda x: x[0] if isinstance(x, list) and len(x) > 0 else x)
+    
     # df.to_csv("assets/projetos/NutshellAPI/teste.csv")
-    print(df.info())
+    print(df[colunas_id])
 
     print("Accounts coletados, tratados e armazenados.")
